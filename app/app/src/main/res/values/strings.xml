@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="targa_mezzo">Targa mezzo</string>
+    <string name="tara_mezzo">Tara mezzo</string>
+    <string name="portata_mezzo">Portata mezzo</string>
+    <string name="salva">salva</string>
+    <string name="peso_in_arrivo">Peso in arrivo</string>
+    <string name="da_caricare">Da caricare</string>
+    <string name="rimanenza">Rimanenza</string>
+    <string name="ditta">Ditta</string>
+    <string name="marca">Marca</string>
+    <string name="lordo">Lordo</string>
+    <string name="data">Data</string>
+    <string name="text_example">Text Example</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="impostazioni">Impostazioni</string>
+    <string name="i_miei_mezzi">I miei mezzi</string>
+    <string name="preference_file_key">keys</string>
+    <string name="le_mie_ditte">Le mie ditte</string>
+    <string name="nome_ditta">Nome ditta</string>
+    <string name="litri_in_arrivo">Litri in arrivo</string>
+    <string name="litri_totali">Litri totali</string>
+    <string name="litri_attuali">Litri attuali</string>
+</resources>

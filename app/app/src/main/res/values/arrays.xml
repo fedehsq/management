@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ditte" >
+        <item>AutoGas</item>
+        <item>ButanGas</item>
+        <item>EnerGas</item>
+        <item>GiGas</item>
+        <item>GoldenGas</item>
+        <item>TuttoGas</item>
+    </string-array>
+
+    <!-- AUTOGAS -->
+    <string-array name="mezzi_autogas" >
+        <item>Croce</item>
+    </string-array>
+
+    <string-array name="targhe_mezzi_autogas">
+        <item>FS 883 YC</item>
+    </string-array>
+
+    <string-array name="tara_mezzi_autogas">
+        <item>8580</item>
+    </string-array>
+
+    <string-array name="lordo_mezzi_autogas">
+        <item>13900</item>
+    </string-array>
+
+    <string-array name="portata_mezzi_autogas">
+        <item>5320</item>
+    </string-array>
+
+    <!-- BUTANGAS -->
+    <string-array name="mezzi_butangas" >
+        <item>BTG Fuart</item>
+        <item>BTG CG Cortina</item>
+        <item>BTG CP Cortina</item>
+        <item>BTG Iveco</item>
+        <item>BTG Nissan</item>
+    </string-array>
+
+    <string-array name="targhe_mezzi_butangas" >
+        <item>GB 013 FK</item>
+        <item>CG 588 TF</item>
+        <item>CP 243 YP</item>
+        <item>BV 377 SY</item>
+        <item>DE 255 MN</item>
+    </string-array>
+
+    <string-array name="tara_mezzi_butangas">
+        <item>6980</item>
+        <item>8900</item>
+        <item>7360</item>
+        <item>8840</item>
+        <item>5300</item>
+    </string-array>
+
+    <string-array name="lordo_mezzi_butangas">
+        <item>10380</item>
+        <item>15000</item>
+        <item>11980</item>
+        <item>14700</item>
+        <item>8000</item>
+    </string-array>
+
+    <string-array name="portata_mezzi_butangas">
+        <item>3400</item>
+        <item>6100</item>
+        <item>4620</item>
+        <item>5860</item>
+        <item>2700</item>
+    </string-array>
+
+    <!-- ENERGAS -->
+    <string-array name="mezzi_energas" >
+        <item>EG Latini</item>
+    </string-array>
+
+    <string-array name="targhe_mezzi_energas" >
+        <item>DY 385 LZ</item>
+    </string-array>
+
+    <string-array name="tara_mezzi_energas">
+        <item>7460</item>
+    </string-array>
+
+    <string-array name="lordo_mezzi_energas">
+        <item>11980</item>
+    </string-array>
+
+    <string-array name="portata_mezzi_energas">
+        <item>4520</item>
+    </string-array>
+
+    <!-- GIGAS -->
+    <string-array name="mezzi_gigas" >
+        <item>GiGas1</item>
+        <item>GiGas2</item>
+    </string-array>
+
+    <string-array name="targhe_mezzi_gigas" >
+        <item>BX 978 JT</item>
+        <item>AL 266 WD</item>
+    </string-array>
+
+    <string-array name="tara_mezzi_gigas">
+        <item>7400</item>
+        <item>5800</item>
+    </string-array>
+
+    <string-array name="lordo_mezzi_gigas">
+        <item>11600</item>
+        <item>9980</item>
+    </string-array>
+
+    <string-array name="portata_mezzi_gigas">
+        <item>4200</item>
+        <item>4180</item>
+    </string-array>
+
+    <!-- GOLDENGAS -->
+    <string-array name="mezzi_goldengas" >
+        <item>EG Iveco</item>
+        <item>GDG</item>
+    </string-array>
+
+    <string-array name="targhe_mezzi_goldengas" >
+        <item>DE 594 LS</item>
+        <item>FL 668 VJ</item>
+    </string-array>
+
+    <string-array name="tara_mezzi_goldengas">
+        <item>8000</item>
+        <item>6600</item>
+    </string-array>
+
+    <string-array name="lordo_mezzi_goldengas">
+        <item>13900</item>
+        <item>10000</item>
+    </string-array>
+
+    <string-array name="portata_mezzi_goldengas">
+        <item>5900</item>
+        <item>3340</item>
+    </string-array>
+
+    <!-- TUTTOGAS -->
+    <string-array name="mezzi_tuttogas" >
+        <item>TG Iveco</item>
+        <item>TG Grazzini</item>
+    </string-array>
+
+    <string-array name="targhe_mezzi_tuttogas" >
+        <item>BP 872 DH</item>
+        <item>FE 984 CK</item>
+    </string-array>
+
+    <string-array name="tara_mezzi_tuttogas">
+        <item>6440</item>
+        <item>8300</item>
+    </string-array>
+
+    <string-array name="lordo_mezzi_tuttogas">
+        <item>9980</item>
+        <item>13900</item>
+    </string-array>
+
+    <string-array name="portata_mezzi_tuttogas">
+        <item>3540</item>
+        <item>5600</item>
+    </string-array>
+
+</resources>
